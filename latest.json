@@ -1,0 +1,19 @@
+{
+  "version": "0.1.675",
+  "force": false,
+  "notes": "自动构建发布包。",
+  "packages": {
+    "macos": {
+      "url": "https://github.com/ccvar/fubao-releases/releases/download/v0.1.675/douyin-fubao-0.1.675-macos-arm64.zip",
+      "filename": "douyin-fubao-0.1.675-macos-arm64.zip",
+      "sha256": "bdd4016f169e48ef7ed990a9ece62eaa0b45f95b4ba4e6e43a58b95ba8b78846",
+      "size": 49974345
+    },
+    "windows": {
+      "url": "https://github.com/ccvar/fubao-releases/releases/download/v0.1.675/douyin-fubao-0.1.675-windows-x64.zip",
+      "filename": "douyin-fubao-0.1.675-windows-x64.zip",
+      "sha256": "e1ce5aafde76234885497f09cac816288995348e02f857b2514234d4a77dc323",
+      "size": 60448245
+    }
+  }
+}
