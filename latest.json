@@ -1,19 +1,19 @@
 {
-  "version": "0.1.677",
+  "version": "0.1.678",
   "force": false,
   "notes": "自动构建发布包。",
   "packages": {
     "macos": {
-      "url": "https://github.com/ccvar/fubao-releases/releases/download/v0.1.677/douyin-fubao-0.1.677-macos-arm64.zip",
-      "filename": "douyin-fubao-0.1.677-macos-arm64.zip",
-      "sha256": "7f1a63be103d1e865f5a833c4b0b9aa4a34a9d9f418d059f16f264feae4a393c",
-      "size": 49974512
+      "url": "https://github.com/ccvar/fubao-releases/releases/download/v0.1.678/douyin-fubao-0.1.678-macos-arm64.zip",
+      "filename": "douyin-fubao-0.1.678-macos-arm64.zip",
+      "sha256": "604becd07fb56e46d528e37aa2922a2d92c8bf1ed9715a73e631f21171cde4cd",
+      "size": 49974756
     },
     "windows": {
-      "url": "https://github.com/ccvar/fubao-releases/releases/download/v0.1.677/douyin-fubao-0.1.677-windows-x64.zip",
-      "filename": "douyin-fubao-0.1.677-windows-x64.zip",
-      "sha256": "126dc00ad16bd6b691c2d66422e128e23f84975bb99792a8cbe50e4d8fab968c",
-      "size": 58967787
+      "url": "https://github.com/ccvar/fubao-releases/releases/download/v0.1.678/douyin-fubao-0.1.678-windows-x64.zip",
+      "filename": "douyin-fubao-0.1.678-windows-x64.zip",
+      "sha256": "2422b5a0c169741d6caaf17859fc9e3676526c0b2b21bd6dde725f5557200c52",
+      "size": 60448540
     }
   }
 }
